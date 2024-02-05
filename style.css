@@ -1,0 +1,27 @@
+.text, p{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+p[class="text"]{
+    font-size: 18pt;
+}
+h1[class="text"]{
+    text-transform: uppercase;
+}
+p[class="fight"]{
+    font-size: 10pt;
+}
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    margin-top: 10%;
+    border:5px solid white; 
+    height: 600px;
+    width: 100% ;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+}
