@@ -16,12 +16,15 @@ body{
     color: white;
 }
 img{
-    margin-top: 10%;
+    position: relative;
     border:5px solid white; 
-    height: 600px;
+    height: 100%;
     width: 100% ;
+    margin: 10% 0% 0% 0%;
 }
-div{
-    width: 50%;
-    margin-left: 25%;
+.box{
+    position: relative;
+    height: 300pt;
+    width: 600pt;
+    margin-left:30%;
 }
